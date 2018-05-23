@@ -1,0 +1,10 @@
+##facebook
+facebook.com NS ns.facebook.com 1000
+ns.facebook.com A 3.4.5.6:12380 1000
+
+google.com NS ns.google.com 1000
+ns.google.com A 3.4.5.6:12380 1000
+
+moshe.com NS ns.moshe.com 20
+ns.moshe.com A 3.4.5.6:12380 20
+
